@@ -7,7 +7,7 @@ from Wavelets.wavelets import display_wavelets
 # Title
 st.title("Pyramids and Wavelets")
 
-st.subheader("by Brycen Wesgarth & Jackie Burd")
+st.subheader("by Brycen Westgarth & Jackie Burd")
 
 add_selectbox = st.sidebar.selectbox(
     "Page Select",
