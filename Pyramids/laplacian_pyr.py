@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
-from bicubic import bicubic_rescale
 import math
 
 def gaussian_pyr(img, levels):
