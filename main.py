@@ -5,28 +5,24 @@ import numpy as np
 # Title
 st.title("Pyramids and Wavelets")
 
-# TODO: Enter our names here
+st.subheader("by Brycen Wesgarth & Jackie Burd")
 
 # TODO: Image Resampling - Page 1
-    # Interpolation
-
-    # Decimation
+    # image_resampling_display()
 
 
 
 # TODO: Pyramids - Page 2
-    # Gaussian
-
-    # Laplacian
+     #pyramids_display()
 
 
 # TODO: Wavelets - Page 3
-    # TODO: Continuous
+    # wavelets_display()
+    # Applition Tool
 
-    # TODO: Discontinuous
+# TODO: Conclusion (JACKIE)
 
-# Conclusion
-        # Potential Application
+# Potential Application
             # Slider Tool Blending of faces
             # Embossing - Laplacian Pyramid
             # Blending of face - gaussian and lapacan pyramid
